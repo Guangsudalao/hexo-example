@@ -8,3 +8,6 @@ A Hexo auto deploy repo example
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuangsudalao%2Fhexo-example.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuangsudalao%2Fhexo-example?ref=badge_large)
+
+## Use software
+[Hexo https://hexo.io](https://hexo.io)
