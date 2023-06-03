@@ -1,4 +1,4 @@
-name: Deploy Hexo Themes Yun on GitHub Pages
+name: Deploy Hexo Themes Butterfly on GitHub Pages
 on:
   push:
     branches:
