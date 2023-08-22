@@ -277,7 +277,10 @@ busuanzi:
 runtimeshow:
   enable: false
   publish_date:
-
+# Add mask to header or footer (為 header 或 footer 添加黑色半透遮罩)
+mask:
+  header: true
+  footer: true
 # Aside widget - Newest Comments
 newest_comments:
   enable: false
