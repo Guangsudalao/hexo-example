@@ -2,7 +2,7 @@ name: Deploy Hexo Themes Butterfly on GitHub Pages
 on:
   push:
     branches:
-      - main
+      - butterfly
 jobs:
   deploy:
     runs-on: ubuntu-latest
